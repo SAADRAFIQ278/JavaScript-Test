@@ -49,7 +49,3 @@
 //         smallest = number[i]
 //     }
 // } console.log("Smallest number is :", smallest);
-
-
-
-
