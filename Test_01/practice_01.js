@@ -79,4 +79,3 @@ for(let i = 2; i < number.length; i++){
 }
 console.log("Smallest = ", smallest);
 console.log("Second_smallest = ", second_smallest);
-
